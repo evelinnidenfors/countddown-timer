@@ -1,0 +1,8 @@
+html {
+    /* background: url('./images/pattern-hills.svg') no-repeat center center fixed; */
+    background: url('./images/pattern-hills.svg') no-repeat center center fixed, linear-gradient(#1e1e28, #231d2b);;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
